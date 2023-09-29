@@ -42,8 +42,7 @@
 <li>Overfitting and hyperparameter tuning are common challenges in deep learning-based stock price prediction.</li>
 
 ## Result (Output of the project):
-
-
+![Alt Text](https://github.com/VidushiRastogi15/Stock-Prediction-Using-LSTM/blob/main/download.png)
 
 ## Conclusion
 <p>The Stock Price Prediction Project using Long Short-Term Memory (LSTM) has been a fascinating exploration of utilizing deep learning techniques to forecast the stock prices of a selected company. Through this project, several key observations and conclusions have been drawn:</p>
