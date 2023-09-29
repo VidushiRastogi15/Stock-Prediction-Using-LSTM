@@ -1,4 +1,4 @@
-![image](https://github.com/VidushiRastogi15/Stock-Prediction-Using-LSTM/assets/118375146/4cd36fac-2ad5-4489-b9b8-26ac36c13007)# Stock-Prediction-Using-LSTM
+# Stock-Prediction-Using-LSTM
 ## Overview
 <p>Stock price prediction is a challenging task due to its inherent volatility and the multitude of factors that influence market dynamics. Traditional financial models often struggle to capture the complex patterns and non-linear relationships in stock price data. In contrast, deep learning techniques, such as LSTM, offer the potential to improve prediction accuracy by learning from historical price movements.</p>
 
@@ -40,6 +40,9 @@
 <li>Stock price prediction is inherently uncertain and subject to various external factors, making accurate predictions challenging.</li>
 <li>LSTM models require a substantial amount of historical data for training.</li>
 <li>Overfitting and hyperparameter tuning are common challenges in deep learning-based stock price prediction.</li>
+
+## Result (Output of the project):
+
 
 
 ## Conclusion
